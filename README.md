@@ -243,19 +243,19 @@ $$
 
 输入lena1.bmp（8位）
 
-![1](C:/Users/User/Documents/201901~06/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/201611210137_%E8%A7%A3%E4%B9%A6%E7%85%A7_%E5%AE%9E%E9%AA%8C%E5%9B%9B_%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E4%B8%8E%E5%A4%8D%E5%8E%9F/asserts/lena1.bmp)
+![1](asserts/lena1.bmp)
 
 压缩后结果为，lena1.bmp.hfm，二进制文件，用一个喜欢的名字吧。
 
 复原后结果：
 
-![2](C:/Users/User/Documents/201901~06/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/201611210137_%E8%A7%A3%E4%B9%A6%E7%85%A7_%E5%AE%9E%E9%AA%8C%E5%9B%9B_%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E4%B8%8E%E5%A4%8D%E5%8E%9F/asserts/lena2.bmp)
+![2](asserts/lena2.bmp)
 
 结果一模一样。
 
 实际压缩率：
 
-![4](C:/Users/User/Documents/201901~06/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/201611210137_%E8%A7%A3%E4%B9%A6%E7%85%A7_%E5%AE%9E%E9%AA%8C%E5%9B%9B_%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E4%B8%8E%E5%A4%8D%E5%8E%9F/asserts/4.png)
+![4](asserts/4.png)
 $$
 239/258 = 92.6\%
 $$
